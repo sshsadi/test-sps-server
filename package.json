@@ -1,0 +1,22 @@
+{
+  "name": "test-sps-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": " nodemon --inspect=7000 src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemo": "^1.0.0",
+    "nodemon": "^3.1.0"
+  },
+  "description": "----------------------------------\r ESPANHOL\r ----------------------------------",
+  "keywords": [],
+  "author": ""
+}
